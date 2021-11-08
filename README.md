@@ -1,2 +1,2 @@
 # NoobDev
-My test coding regarding fron-end
+My test coding regarding front-end
